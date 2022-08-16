@@ -2,7 +2,7 @@
 name: Dokumentation
 about: Dokumentation eines Verhaltens
 title: ''
-labels: DOKU
+labels: documentation
 assignees: ''
 
 ---

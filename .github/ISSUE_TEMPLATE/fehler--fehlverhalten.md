@@ -2,7 +2,7 @@
 name: Fehler/ Fehlverhalten
 about: Anmerkung eines Fehlers oder Fehlverhaltens
 title: ''
-labels: BUG
+labels: bug
 assignees: ''
 
 ---
