@@ -15,7 +15,7 @@ Die Vorlage für App Repositories befindet sich [hier](https://github.com/minova
 
 ## Abrechnungsdaten
 
-Diese Tabelle muss in jedes Issue kopiert werden, damit die Stundenerfassung es richtig auslesen kann. Selbes Vorgehen wie im Trac.
+Die Abrechnungstabelle befindet sich in jedem Issue Template und muss nicht kopiert werden. 
 
 == Abrechnung SIS == <br>
 ||Feld||Wert||<br>
