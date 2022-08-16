@@ -30,4 +30,4 @@ Hier befindet sich das [Changelog](https://github.com/minova-afis/aero.minova.de
 
 ## Dokumentation
 
-Hier befindet sich die [Dokumentation](https://github.com/minova-afis/aero.minova.default.template/blob/main/doc/app/app-overview.md)
+Hier befindet sich die [Dokumentation](https://github.com/minova-afis/aero.minova.default.template/blob/main/doc/app)
