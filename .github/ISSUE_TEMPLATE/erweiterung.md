@@ -2,7 +2,7 @@
 name: Erweiterung
 about: Gewünschte Erweiterung, Alternative oder Verbesserung
 title: ''
-labels: enhancement
+labels: ERWEITERUNG
 assignees: ''
 
 ---

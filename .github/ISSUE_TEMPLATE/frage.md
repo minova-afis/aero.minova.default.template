@@ -2,7 +2,7 @@
 name: Frage
 about: Offene Fragen oder Abstimmungen
 title: ''
-labels: question
+labels: FRAGE
 assignees: ''
 
 ---
