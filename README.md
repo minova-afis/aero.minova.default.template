@@ -9,6 +9,21 @@ Dieses Repository dient als Grundlage für alle Zukünftigen Repositories, die k
 #### App Projekte
 Die Vorlage für App Repositories befindet sich [hier](https://github.com/minova-afis/aero.minova.default.template.app).
 
+**HINWEIS!!! Für die Projekte alles oberhalb von H1 Projektname in der README löschen**
+
+# Projektname (Durch den Projektnamen ersetzen)
+
+## Abrechnungsdaten
+
+Diese Tabelle muss in jedes Issue kopiert werden, damit die Stundenerfassung es richtig auslesen kann. Selbes Vorgehen wie im Trac.
+
+== Abrechnung SIS == <br>
+||Feld||Wert||<br>
+||Kunde||XXX||<br>
+||Kontrakt||XXX||<br>
+||Projekt||XXX||<br>
+||Aufwand||XXX||<br>
+
 ## Changelog
 
 Hier befindet sich das [Changelog](https://github.com/minova-afis/aero.minova.default.template/blob/main/Changelog.md)
