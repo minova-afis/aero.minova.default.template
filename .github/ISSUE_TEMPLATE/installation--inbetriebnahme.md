@@ -2,7 +2,7 @@
 name: Installation/ Inbetriebnahme
 about: Installation oder Inbetriebnahme
 title: ''
-labels: installation
+labels: ''
 assignees: ''
 
 ---
