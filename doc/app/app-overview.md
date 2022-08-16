@@ -1,1 +1,1 @@
-Übersicht alles im App Ordner enthaltenen Dokumentationen
+Übersicht aller im App Ordner enthaltenen Dokumentationen
