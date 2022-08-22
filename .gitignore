@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Build output
+**/bin/
+**/target/
+**/dest/
+
+# macOS Finder
+**/.DS_Store
+
+# Tycho pomless build
+**/.polyglot.build.properties
+
+#Eclipse Settings
+**/.log
+**/.metadata/
+
+# Pomless build artifacts
+.polyglot.feature.xml
+.polyglot..META-INF_MANIFEST.MF
+.polyglot.META-INF
+.polyglot.category.xml
