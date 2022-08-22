@@ -26,8 +26,8 @@ Die Abrechnungstabelle befindet sich in jedem Issue Template und muss nicht kopi
 
 ## Changelog
 
-Hier befindet sich das [Changelog](https://github.com/minova-afis/aero.minova.default.template/blob/main/Changelog.md)
+Hier befindet sich das [Changelog](Changelog.md)
 
 ## Dokumentation
 
-Hier befindet sich die [Dokumentation](https://github.com/minova-afis/aero.minova.default.template.app/tree/main/doc)
+Hier befindet sich die [Dokumentation](doc/contens.md)
