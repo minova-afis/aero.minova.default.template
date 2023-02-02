@@ -17,12 +17,7 @@ Die Vorlage für App Repositories befindet sich [hier](https://github.com/minova
 
 Die Abrechnungstabelle befindet sich in jedem Issue Template und muss nicht kopiert werden. 
 
-== Abrechnung SIS == <br>
-||Feld||Wert||<br>
-||Kunde||XXX||<br>
-||Kontrakt||XXX||<br>
-||Projekt||XXX||<br>
-||Aufwand||XXX||<br>
+Abrechnung={XXX/XXX/XXX/XXX}
 
 ## Changelog
 
