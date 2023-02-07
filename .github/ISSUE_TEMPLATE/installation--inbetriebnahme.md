@@ -18,9 +18,4 @@ Ort:
 **Beteiligte/ Ansprechpartner**
 
 
-== Abrechnung SIS == 
-||Feld||Wert||
-||Kunde||XXX||
-||Kontrakt||XXX||
-||Projekt||XXX||
-||Aufwand||ZINSTALL||
+Abrechnung={///ZINSTALL}

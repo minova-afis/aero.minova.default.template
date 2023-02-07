@@ -7,9 +7,4 @@ assignees: ''
 
 ---
 
-== Abrechnung SIS == 
-||Feld||Wert||
-||Kunde||XXX||
-||Kontrakt||XXX||
-||Projekt||XXX||
-||Aufwand||XXX||
+Abrechnung={///}

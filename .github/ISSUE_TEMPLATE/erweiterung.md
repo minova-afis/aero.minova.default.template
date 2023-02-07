@@ -13,9 +13,4 @@ assignees: ''
 **Beispiel/ Mockup:**
 
 
-== Abrechnung SIS == 
-||Feld||Wert||
-||Kunde||XXX||
-||Kontrakt||XXX||
-||Projekt||XXX||
-||Aufwand||ZPROGRAM||
+Abrechnung={///ZPROGRAM}
