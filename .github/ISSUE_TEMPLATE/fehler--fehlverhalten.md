@@ -20,4 +20,4 @@ Schritte um das Verhalten/ den Fehler nachzustellen:
 **Betriebssystem:**
 
 
- Abrechnung={///ZWARTUNG}
+ Abrechnung={XXX/XXX/XXX/ZWARTUNG}

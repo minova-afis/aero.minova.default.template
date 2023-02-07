@@ -16,4 +16,4 @@ assignees: ''
 **Screenshots:**
 
 
-Abrechnung={///ZANALYSE}
+Abrechnung={XXX/XXX/XXX/ZANALYSE}

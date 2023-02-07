@@ -18,4 +18,4 @@ Ort:
 **Beteiligte/ Ansprechpartner**
 
 
-Abrechnung={///ZINSTALL}
+Abrechnung={XXX/XXX/XXX/ZINSTALL}

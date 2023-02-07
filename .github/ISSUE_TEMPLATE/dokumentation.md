@@ -13,4 +13,4 @@ assignees: ''
 **Screenshots:**
 
 
-Abrechnung={///ZDOKU}
+Abrechnung={XXX/XXX/XXX/ZDOKU}

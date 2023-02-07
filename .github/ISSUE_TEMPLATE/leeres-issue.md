@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Abrechnung={///}
+Abrechnung={XXX/XXX/XXX/XXX}
