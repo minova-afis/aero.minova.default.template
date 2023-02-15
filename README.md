@@ -39,8 +39,8 @@ Abrechnung={XXX/XXX/XXX/XXX}
 
 ## Changelog
 
-Hier befindet sich das [Changelog](Changelog.md)
+Hier befindet sich das [Changelog](CHANGELOG.md)
 
 ## Dokumentation
 
-Hier befindet sich die [Dokumentation](doc/contens.md)
+Hier befindet sich die [Dokumentation](doc/contents.md)
