@@ -42,5 +42,6 @@ Abrechnung={XXX/XXX/XXX/XXX}
 Hier befindet sich das [Changelog](Changelog.md)
 
 ## Dokumentation
-
-Hier befindet sich die [Dokumentation](doc/contens.md)
+* [Administrative Aufgaben](doc/administrative-aufgaben.md)
+* [Dokumentation](doc/md/contents.md)
+* [Symptome, deren Ursachen und Lösungen](doc/symptome-deren-ursache-und-loesung.md)
